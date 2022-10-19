@@ -10,7 +10,7 @@ Parking Control 🅿️ Curso Spring Boot :: Michelli Brito
 🛑 Neste projeto contém o uso de:
 </h3>
 
-- [x] Connexão com banco de dados utilizando Spring;
+- [x] Conexão com banco de dados utilizando Spring;
 - [x] Criação de API Rest com Spring Boot;
 - [x] Utilização do framework Lombok
 
